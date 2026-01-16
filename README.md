@@ -1,1 +1,0 @@
-[![Board Status](https://dev.azure.com/NIP-SENACRN/470f4126-d736-43fe-a98b-4a256d1c414a/a0f23080-242d-44b6-889a-5b0d063f4c21/_apis/work/boardbadge/2a6f5521-a13c-441e-b3df-7eb1979f4ab7)](https://dev.azure.com/NIP-SENACRN/470f4126-d736-43fe-a98b-4a256d1c414a/_boards/board/t/a0f23080-242d-44b6-889a-5b0d063f4c21/Microsoft.RequirementCategory)

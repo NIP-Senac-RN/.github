@@ -1,12 +1,4 @@
+[![Board Status](https://dev.azure.com/NIP-SENACRN/470f4126-d736-43fe-a98b-4a256d1c414a/a0f23080-242d-44b6-889a-5b0d063f4c21/_apis/work/boardbadge/2a6f5521-a13c-441e-b3df-7eb1979f4ab7)](https://dev.azure.com/NIP-SENACRN/470f4126-d736-43fe-a98b-4a256d1c414a/_boards/board/t/a0f23080-242d-44b6-889a-5b0d063f4c21/Microsoft.RequirementCategory)
+
 # NIP-Senac-RN
-Este projeto concentra o backlog central do NIP – Núcleo de Inteligência e Projetos, englobando todas as iniciativas de Business Intelligence, estudos e análises de dados.
-
-Aqui estão organizados:
-
-Épicos: agrupamentos estratégicos (Discovery, Engenharia de Dados, Data Visualization e Manutenção).
-
-Features: entregas específicas dentro de cada épico.
-
-Product Backlog Itens e Tasks: detalhamento do trabalho em nível de usuário e técnico.
-
-O objetivo é manter em um único espaço a visão unificada do trabalho do NIP, permitindo gestão integrada do backlog, acompanhamento de entregas e priorização das demandas de dados e BI.
+O Serviço Nacional de Aprendizagem do Comércio conta com o Núcleo de Inteligência e Projetos para desenvolver tarefas utilizando dados como Fonte de Verdade.
